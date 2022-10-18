@@ -1,0 +1,110 @@
+error : Apr-27-2022 02:40 : hhhhhh
+error : Apr-27-2022 02:40 : hhhhhh
+error : Apr-27-2022 02:41 : hhhhhh
+error : Apr-27-2022 02:41 : hhhhhh
+error : Apr-27-2022 02:47 : hhhhhh
+error : Apr-27-2022 02:47 : hhhhhh
+error : Apr-27-2022 03:00 : hhhhhh
+error : Apr-27-2022 03:00 : hhhhhh
+error : Apr-27-2022 03:02 : hhhhhh
+error : Apr-27-2022 03:03 : hhhhhh
+error : Apr-27-2022 03:06 : hhhhhh
+error : Apr-27-2022 03:06 : hhhhhh
+error : Apr-27-2022 03:08 : hhhhhh
+error : Apr-27-2022 03:09 : hhhhhh
+error : Apr-27-2022 03:09 : hhhhhh
+error : Apr-27-2022 03:09 : hhhhhh
+error : Apr-27-2022 03:09 : hhhhhh
+error : Apr-27-2022 03:10 : hhhhhh
+error : Apr-27-2022 03:10 : hhhhhh
+error : Apr-27-2022 03:19 : user validation failed: email: Please enter a valid email
+error : Apr-27-2022 03:20 : user validation failed: email: Please enter a valid email
+error : Apr-27-2022 03:20 : user validation failed: email: Please enter a valid email, password: Path `password` (`sdsd`) is shorter than the minimum allowed length (8).
+error : Apr-27-2022 03:22 : user validation failed: email: Please enter a valid email, password: Path `password` (`z`) is shorter than the minimum allowed length (8)., firstName: Path `firstName` (`z`) is shorter than the minimum allowed length (2)., lastName: Path `lastName` (`z`) is shorter than the minimum allowed length (2).
+error : Apr-27-2022 03:30 : user validation failed: email: Please enter a valid email, password: Path `password` (`h`) is shorter than the minimum allowed length (8)., firstName: Path `firstName` (`h`) is shorter than the minimum allowed length (2)., lastName: Path `lastName` (`h`) is shorter than the minimum allowed length (2).
+error : Apr-27-2022 04:08 : orders validation failed: amount: Path `amount` is required.
+error : Apr-27-2022 04:08 : orders validation failed: amount: Path `amount` is required.
+error : Apr-27-2022 04:10 : orders validation failed: amount: Path `amount` is required.
+error : Apr-27-2022 04:11 : orders validation failed: amount: Path `amount` is required.
+error : Apr-27-2022 04:16 : orders validation failed: amount: Path `amount` is required.
+error : Apr-27-2022 04:19 : orders validation failed: amount: Path `amount` is required.
+error : Apr-27-2022 04:26 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:27 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:27 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:28 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:28 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:29 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:33 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:35 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:35 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:35 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:36 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:36 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:37 : Schema hasn't been registered for model "users".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 04:37 : Schema hasn't been registered for model "users".
+Use mongoose.model(name, schema)
+error : Apr-27-2022 05:04 : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+error : Apr-27-2022 05:36 : Schema hasn't been registered for model "userModel".
+Use mongoose.model(name, schema)
+error : May-02-2022 01:44 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 01:52 : Cannot read properties of undefined (reading 'join')
+error : May-02-2022 02:24 : user validation failed: email: Please enter a valid email, password: Path `password` (`mmmm`) is shorter than the minimum allowed length (8).
+error : May-02-2022 02:50:37.758 : user validation failed: email: Please enter a valid email, password: Path `password` is required., firstName: Path `firstName` is required., lastName: Path `lastName` is required.
+error : May-02-2022 02:51:20.953 : user validation failed: email: Please enter a valid email, password: Path `password` is required., firstName: Path `firstName` is required., lastName: Path `lastName` is required.
+error : May-02-2022 02:51:27.671 : user validation failed: email: Please enter a valid email, password: Path `password` is required., firstName: Path `firstName` is required., lastName: Path `lastName` is required.
+error : May-02-2022 02:52:18.653 : user validation failed: email: Please enter a valid email, password: Path `password` is required., firstName: Path `firstName` is required., lastName: Path `lastName` is required.
+error : May-02-2022 02:53:32.183 : user validation failed: email: Please enter a valid email, password: Path `password` (`gg`) is shorter than the minimum allowed length (8).
+error : May-02-2022 02:54:42.758 : user validation failed: password: Path `password` (`g`) is shorter than the minimum allowed length (8)., firstName: Path `firstName` (`g`) is shorter than the minimum allowed length (2)., lastName: Path `lastName` (`g`) is shorter than the minimum allowed length (2).
+error : May-02-2022 02:55:51.050 : user validation failed: password: Path `password` (`ttttt`) is shorter than the minimum allowed length (8).
+error : May-02-2022 02:59:54.594 : user validation failed: password: Path `password` is required., lastName: Path `lastName` is required.
+error : May-02-2022 03:04:52.417 : E11000 duplicate key error collection: 213235542_tehila&ruty.users index: email_1 dup key: { : "ssss" }
+error : May-02-2022 03:07:06.199 : E11000 duplicate key error collection: 213235542_tehila&ruty.users index: email_1 dup key: { : "ghjk" }
+error : May-02-2022 03:28:27.460 : Cast to ObjectId failed for value "{ id: undefined }" (type Object) at path "_id" for model "user"
+error : May-02-2022 03:32:50.301 : E11000 duplicate key error collection: 213235542_tehila&ruty.users index: email_1 dup key: { : "m123456ffp9@gmail.com" }
+error : May-02-2022 03:39:37.396 : Cast to ObjectId failed for value "{ id: undefined }" (type Object) at path "_id" for model "user"
+error : May-02-2022 03:40:34.685 : Cast to ObjectId failed for value "{ id: undefined }" (type Object) at path "_id" for model "user"
+error : May-02-2022 03:43:32.284 : E11000 duplicate key error collection: 213235542_tehila&ruty.users index: email_1 dup key: { : "m12444llfp9@gmail.com" }
+error : May-02-2022 03:46:20.715 : E11000 duplicate key error collection: 213235542_tehila&ruty.users index: email_1 dup key: { : "m12444llfp9@gmail.com" }
+error : May-03-2022 01:50:04.188 : user validation failed: password: Path `password` (`fff`) is shorter than the minimum allowed length (4).
+error : May-03-2022 02:00:05.619 : user validation failed: email: Please enter a valid email
+error : May-03-2022 02:02:50.593 : user validation failed: email: Please enter a valid email
+error : May-03-2022 02:04:12.881 : user validation failed: email: Please enter a valid email
+error : May-03-2022 03:03:42.035 : user validation failed: email: Please enter a valid email
+error : May-04-2022 01:25:46.442 : E11000 duplicate key error collection: 213235542_tehila&ruty.users index: email_1 dup key: { : "fffff@gmail.com" }
+error : May-04-2022 02:02:01.320 : E11000 duplicate key error collection: 213235542_tehila&ruty.users index: email_1 dup key: { : "fffff@gmail.com" }
+error : May-04-2022 02:02:16.557 : E11000 duplicate key error collection: 213235542_tehila&ruty.users index: email_1 dup key: { : "fffff@gmail.com" }
+error : May-04-2022 02:02:49.223 : E11000 duplicate key error collection: 213235542_tehila&ruty.users index: email_1 dup key: { : "fffff@gmail.com" }
+error : May-04-2022 03:44:17.076 : orderModel is not defined
+error : May-04-2022 03:45:27.323 : orderModel is not defined
+error : May-04-2022 03:47:08.301 : orderModel is not defined
+error : May-04-2022 03:49:12.473 : orderModel is not defined
+error : May-04-2022 03:50:33.001 : orders is not defined
+error : May-04-2022 03:50:35.360 : orders is not defined
